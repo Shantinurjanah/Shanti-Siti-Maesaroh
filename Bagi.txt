@@ -1,0 +1,12 @@
+import java.util.*
+Class Bagi {
+    Public static void main (string args []) {
+    Scanner input= new scanner (System.in)
+    int a,b,hasil;
+    System.out.print("masukan nilai a=");
+    a= input.nextint();
+    b= input.nextint();
+    hasil= a*b;
+    system.out.print ("hasil="+hasil);
+}
+}
